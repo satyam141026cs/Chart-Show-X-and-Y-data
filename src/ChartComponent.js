@@ -1060,7 +1060,7 @@ const ChartComponent = () => {
 
   return (
     <div style={{paddingLeft:"10%",paddingRight:"10%"}}>
-      <h2>Line Chart</h2>
+      <h2>Line Chart ( value of x and y )</h2>
       <Line data={data} />
     </div>
   );
